@@ -56,7 +56,7 @@
          
 
 ## ReplicaSet
-   ### replicaset is an kubernetes object which is used make your pod highly available and any point time it will make sure sepcified replicas are up and running 
+   ### replicaset is an kubernetes object which is used make your pod highly available and any point time it will make sure sepcified replicas are up and running. 
    
    basic structure replicaset 
    
